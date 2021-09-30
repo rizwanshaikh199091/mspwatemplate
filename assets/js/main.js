@@ -4,6 +4,14 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+   navigator.serviceWorker.register('../../sw.js').then( () => {
+    console.log('Service Worker Registered')
+   })
+ })
+}
 (function() {
   "use strict";
 
