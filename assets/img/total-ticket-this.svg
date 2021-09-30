@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182.002" height="208.5" viewBox="0 0 182.002 208.5">
+  <g id="Group_2547" data-name="Group 2547" transform="translate(8907.002 20541.5)">
+    <rect id="Rectangle_Copy_13" data-name="Rectangle Copy 13" width="157" height="172" rx="12" transform="translate(-8895 -20529.5)" fill="none"/>
+    <path id="Donut_0" d="M18.646,0A91.484,91.484,0,0,1,100.7,50.644a89.774,89.774,0,0,1-9.982,95.5A91.87,91.87,0,0,1,1.023,179.3L0,179.094,8.084,139.92A51.878,51.878,0,0,0,59.294,121.4a49.774,49.774,0,0,0,5.564-53A51.475,51.475,0,0,0,19.236,40l-.59,0Z" transform="translate(-8835.042 -20541.5)" fill="#d01365"/>
+    <path id="Donut_1" d="M.756,0,40.425,5.132a50.441,50.441,0,0,0,38.9,55.69l.77.167-8.188,39.153A90.439,90.439,0,0,1,.585,1.4Z" transform="translate(-8907.002 -20463.066)" fill="#aa55d4"/>
+    <path id="Donut_2" d="M89.837,0V40A50.763,50.763,0,0,0,39.778,83.785l-.1.763L0,79.452A90.782,90.782,0,0,1,88.472.01Z" transform="translate(-8906.837 -20541.5)" fill="#b134ac"/>
+    <g id="Group_155" data-name="Group 155" transform="translate(-4.849)">
+      <text id="None" transform="translate(-8882.151 -20335)" fill="#565656" font-size="10" font-family="Lato-Semibold, Lato" font-weight="600"><tspan x="0" y="0">None</tspan></text>
+      <text id="Call_Back" data-name="Call Back" transform="translate(-8839.151 -20335)" fill="#565656" font-size="10" font-family="Lato-Semibold, Lato" font-weight="600"><tspan x="0" y="0">Call Back</tspan></text>
+      <text id="Maintenance" transform="translate(-8779.151 -20335)" fill="#565656" font-size="10" font-family="Lato-Semibold, Lato" font-weight="600"><tspan x="0" y="0">Maintenance</tspan></text>
+      <circle id="Ellipse_110" data-name="Ellipse 110" cx="4.5" cy="4.5" r="4.5" transform="translate(-8896.151 -20342)" fill="#aa55d4"/>
+      <circle id="Ellipse_111" data-name="Ellipse 111" cx="4.5" cy="4.5" r="4.5" transform="translate(-8853.151 -20342)" fill="#b134ac"/>
+      <circle id="Ellipse_112" data-name="Ellipse 112" cx="4.5" cy="4.5" r="4.5" transform="translate(-8793.151 -20342)" fill="#d01365"/>
+    </g>
+  </g>
+</svg>

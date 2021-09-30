@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163.001" height="192" viewBox="0 0 163.001 192">
+  <g id="Group_2546" data-name="Group 2546" transform="translate(-98 -427)">
+    <path id="Donut_1" d="M81,0a11,11,0,0,1,0,22A59.769,59.769,0,0,0,22.025,72.65l-.131.885A11,11,0,1,1,.109,70.465,81.773,81.773,0,0,1,81,0Z" transform="translate(98 427)" fill="#f44336" opacity="0.8"/>
+    <text id="_76_" data-name="76%" transform="translate(119.001 493.5)" fill="#147ad6" font-size="22" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600" opacity="0.8"><tspan x="42.86" y="24">213</tspan></text>
+    <g id="Group_2545" data-name="Group 2545">
+      <path id="Donut_0" d="M73.6,10.524A11,11,0,0,1,85.068.011a80.914,80.914,0,0,1,49.844,142.1A81.479,81.479,0,0,1,.807,69.581a11,11,0,0,1,21.78,3.1,58.859,58.859,0,0,0,30.461,60.066,59.845,59.845,0,0,0,67.5-7.3,58.674,58.674,0,0,0,16.7-65.145A59.45,59.45,0,0,0,84.829,22.025l-.714-.035A11,11,0,0,1,73.6,10.524Z" transform="translate(98 427.001)" fill="#23df06" opacity="0.8"/>
+      <text id="Open" transform="translate(137 617)" fill="#565656" font-size="10" font-family="Lato-Semibold, Lato" font-weight="600" opacity="0.8"><tspan x="0" y="0">Open</tspan></text>
+      <text id="Completed" transform="translate(189 617)" fill="#565656" font-size="10" font-family="Lato-Semibold, Lato" font-weight="600" opacity="0.8"><tspan x="0" y="0">Completed</tspan></text>
+      <circle id="Ellipse_108" data-name="Ellipse 108" cx="4.5" cy="4.5" r="4.5" transform="translate(123 610)" fill="#f44336" opacity="0.8"/>
+      <circle id="Ellipse_109" data-name="Ellipse 109" cx="4.5" cy="4.5" r="4.5" transform="translate(174 610)" fill="#36f443" opacity="0.8"/>
+    </g>
+  </g>
+</svg>

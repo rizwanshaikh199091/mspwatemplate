@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="284" height="166" viewBox="0 0 284 166">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.066" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1940d9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_152" data-name="Group 152" transform="translate(-37 -162)" opacity="0.8">
+    <path id="Area_2" d="M0,34.822s21.3,20.5,42.257,20.5S63.209,0,84.161,0s20.952,25.794,41.9,25.794c20.176,0,20.176,83.832,41.128,83.832s20.952-32.888,41.9-32.888,41.9,37.4,41.9,37.4V138H.353Z" transform="translate(60.238 173)" opacity="0.3" fill="url(#linear-gradient)"/>
+    <path id="Area_2-2" data-name="Area_2" d="M0,34.822q21.3,20.5,42.257,20.5C63.209,55.322,63.209,0,84.161,0s20.952,25.794,41.9,25.794c20.176,0,20.176,83.832,41.128,83.832s20.952-32.888,41.9-32.888,41.9,37.4,41.9,37.4" transform="translate(60.238 173)" fill="none" stroke="#1940d9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Oval" cx="4" cy="4" r="4" transform="translate(141.238 169)" fill="#1940d9"/>
+    <g id="Group_150" data-name="Group 150" transform="translate(63 317)">
+      <text id="M" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="11.636" y="8">M</tspan></text>
+      <text id="T" transform="translate(112.658)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="12.39" y="8">T</tspan></text>
+      <text id="S" transform="translate(189.88)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="12.302" y="8">S</tspan></text>
+      <text id="S-2" data-name="S" transform="translate(228)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="12.492" y="8">S</tspan></text>
+      <text id="T-2" data-name="T" transform="translate(38.611)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="12.39" y="8">T</tspan></text>
+      <text id="F" transform="translate(151)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="12.756" y="8">F</tspan></text>
+      <text id="W" transform="translate(77)" font-size="8" font-family="NunitoSans-SemiBold, Nunito Sans" font-weight="600"><tspan x="8.58" y="8">W</tspan></text>
+    </g>
+    <path id="Average-line" d="M.5.5h247" transform="translate(63.029 311)" fill="none" stroke="#7c828a" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="1 3"/>
+    <g id="Group_151" data-name="Group 151" transform="translate(0 44.85)">
+      <text id="_0" data-name="0" transform="translate(37 254.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="13.6" y="9">0</tspan></text>
+      <text id="_0-2" data-name="0" transform="translate(37 231.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="13.6" y="9">4</tspan></text>
+      <text id="_0-3" data-name="0" transform="translate(37 209.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="13.6" y="9">8</tspan></text>
+      <text id="_0-4" data-name="0" transform="translate(37 186.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="8.2" y="9">12</tspan></text>
+      <text id="_0-5" data-name="0" transform="translate(37 162.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="8.209" y="9">16</tspan></text>
+      <text id="_0-6" data-name="0" transform="translate(37 139.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="8.2" y="9">20</tspan></text>
+      <text id="_0-7" data-name="0" transform="translate(37 117.15)" fill="#7c828a" font-size="9" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="8.2" y="9">20</tspan></text>
+    </g>
+  </g>
+</svg>
