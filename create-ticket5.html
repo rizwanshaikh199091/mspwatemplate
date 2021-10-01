@@ -43,14 +43,22 @@
     padding: 48px 0;
   }
 
-  .tab .container {
-    padding: 0px;
-  }
 
-  .tab-pane .container {
-    padding-right: var(--bs-gutter-x, .5rem);
-    padding-left: var(--bs-gutter-x, .5rem);
+  .navbar a{
+      padding: 10px 0 10px 0px;;
   }
+  .add{
+    left: 15px;
+  }
+  .chart-main{
+      height: 90vh;
+      text-align: center;
+  }
+  @media (max-width: 360px){
+    .chart-main, .ticket-main {
+    height: 81vh;
+}
+}
 </style>
 
 <body style="background-color: #F1F1F1;overflow: hidden;">
@@ -58,7 +66,6 @@
     <div class="container d-flex align-items-center justify-content-between">
       <nav id="navbar" class="navbar">
         <ul>
-          <a href="Login.html"><img class="rounded-circle img-fluid"  src="assets/img/temp/side-n.png"></a>
           <!-- <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
               <li><a class="nav-link scrollto" href="#about">About</a></li>
               <li><a class="nav-link scrollto" href="#services">Services</a></li>
@@ -85,20 +92,17 @@
               <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
               <li><a class="getstarted scrollto" href="#about">Get Started</a></li> -->
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+        <!-- <i class="bi bi-list mobile-nav-toggle"></i> -->
+        <a href="create-ticket4.html"><img  width="25px" src="assets/img/left-arrow.svg"></a>
       </nav><!-- .navbar -->
       <div class="logo">
-        <h1>Dashboard</h1>
+        <h1>Create Ticket</h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
-      <div class="avtar">
-        <a href="#">
-          <i class="bi bi-bell-fill notification">
-            <span class="badge">3</span></i>
-        </a>
-        <a href="#"></a><span class="text-white">|</span>
-        <a href="#"><img class="rounded-circle" width="35px" src="assets/img/team-2.png"></a>
+      <div class="avtar" style="padding: 0 9px;">
+        
+        <a href="#"><img class=""  src="assets/img/topmenu.svg"></a>
       </div>
 
     </div>
@@ -106,79 +110,12 @@
   <!-- main section -->
   <main id="main">
     <!-- tab container -->
-    <section class="tab">
-      <div class="container">
+    <section >
+      <div class="container mt-2">
         <div class="row">
           <div class="col-md-12">
-            <ul class="nav nav-tabs" id="myTab" role="tablist">
-              <li class="nav-item" role="presentation">
-                <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
-                  role="tab" aria-controls="home" aria-selected="true">Tickets</button>
-              </li>
-              <li class="nav-item" role="presentation">
-                <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
-                  role="tab" aria-controls="profile" aria-selected="false">KPIs</button>
-              </li>
-            </ul>
-            <div class="tab-content" id="myTabContent">
-              <!-- tab KPIS -->
-              <div class="tab-pane fade show active mt-2" id="home" role="tabpanel" aria-labelledby="home-tab">
-                 <div class="container">
-                  <div class="row">
-                    <div class="col-md-12" style="padding: 0;">
-                      <div class="ticket-main">
-                       <a href="create-ticket.html"><img src="assets/img/temp/ticket.png" alt="" srcset="" class="img-fluid">
-                        </a>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-               
-              </div>
-              <!-- tab Tickets -->
-              <div class="tab-pane fade  mt-2" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                <div class="container">
-                  <div class="row">
-                    <div class="col-md-12" style="padding: 0;">
-                      <div class="chart-main">
-                        <!-- Total hours this week -->
-                        <div class="card">
-                          <div class="card-body">
-                            <h5 class="card-title">Total hours this week</h5>
-                            <hr>
-                            <div class="chart">
-                              <img src="assets/img/Total-hours.svg" class="img-fluid" alt="">
-                            </div>
-                          </div>
-                        </div>
-                        <!-- Total hours this week -->
-                        <div class="card mt-2">
-                          <div class="card-body">
-                            <h5 class="card-title">Total hours this week</h5>
-                            <hr>
-                            <div class="chart">
-                              <img src="assets/img/Total-Ticket.svg" class="img-fluid" alt="">
-                            </div>
-                          </div>
-                        </div>
-                        <!-- Total hours this week -->
-                        <div class="card mt-2">
-                          <div class="card-body">
-                            <h5 class="card-title">Total tickets this month by category</h5>
-                            <hr>
-                            <div class="chart">
-                              <img src="assets/img/total-ticket-this.svg" class="img-fluid" alt="">
-                            </div>
-                          </div>
-                        </div>
-
-                      </div>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
+            <div class="chart-main">
+            <img src="assets/img/temp/5.png" alt="" srcset="" class="img-fluid"> 
             </div>
           </div>
         </div>
@@ -202,7 +139,7 @@
             </div>
             <div class="col">
               <div class="icon-box">
-                <a href="create-ticket.html">
+                <a href="#">
                   <img src="assets/img/tickets (1).svg" class="testimonial-img" alt="">
                   <span>Tickets</span></a>
               </div>
@@ -232,8 +169,14 @@
       </div>
     </div>
   </footer><!-- End Footer -->
-  <a href="create-ticket.html" class="back-to-top d-flex align-items-center justify-content-center"><img src="assets/img/ticket-up.svg" alt="" srcset=""></a>
-
+  <a href="create-ticket6.html" class="back-to-top d-flex align-items-center justify-content-center">
+      <!-- <img src="assets/img/ticket-up.svg" alt="" srcset=""> -->
+    <span class="text-white">Next</span> 
+    </a>
+  <!-- <a href="create-ticket.html" class="back-to-top add d-flex align-items-center justify-content-center"> -->
+        <!-- <img src="assets/img/ticket-up.svg" alt="" srcset=""> -->
+      <!-- <span class="text-white">PRV.</span> 
+  </a> -->
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>

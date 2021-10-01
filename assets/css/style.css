@@ -467,7 +467,7 @@ section {
 }
 .scanner-section .scanner{
   border: 1px solid #707070;
-    width: 20%;
+    /* width: 20%; */
     padding: 12px;
     border-radius: 25px;
 }
@@ -673,6 +673,7 @@ section {
   padding: 0;
   height: 80vh;
   overflow: hidden scroll;
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
